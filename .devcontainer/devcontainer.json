@@ -1,1 +1,6 @@
-image="alpine:latest"
+{
+    "name": "Python Dev Container",
+    "image": "python:3-alpine",
+    "workspaceFolder": "/workspaces/alplat",
+    "remoteUser": "root"
+}
