@@ -1,0 +1,6 @@
+model_list:
+  - model_name: llm7-bidara
+    litellm_params:
+      model: bidara
+      api_base: https://api.llm7.io/v1
+      api_key: "your-api-key-here"
